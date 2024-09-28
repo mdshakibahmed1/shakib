@@ -1,0 +1,16 @@
+
+.n{ 
+    text-align: center;
+
+    color: rgb(26, 20, 20);
+   background-color: aqua;
+}
+.m{
+    text-align: center;
+    font-style: inherit;
+    
+    color: aqua;
+    background-color: royalblue;
+    background-size: 10px;
+    background-size: 1000px;
+}
